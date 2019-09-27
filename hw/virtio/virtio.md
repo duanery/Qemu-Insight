@@ -12,7 +12,7 @@ virtqueues
 
 # virtio
 
-
+https://github.com/zhangjaycee/real_tech/wiki/virtual_008
 
 # virtio-pci
 
